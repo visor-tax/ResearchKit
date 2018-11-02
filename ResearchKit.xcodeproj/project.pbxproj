@@ -485,7 +485,7 @@
 		86C40E201A8D7C5C00081FAC /* ORKConsentSignature.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C40C031A8D7C5C00081FAC /* ORKConsentSignature.m */; };
 		86C40E241A8D7C5C00081FAC /* ORKEAGLMoviePlayerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 86C40C051A8D7C5C00081FAC /* ORKEAGLMoviePlayerView.h */; };
 		86C40E261A8D7C5C00081FAC /* ORKEAGLMoviePlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C40C061A8D7C5C00081FAC /* ORKEAGLMoviePlayerView.m */; };
-		86C40E281A8D7C5C00081FAC /* ORKSignatureView.h in Headers */ = {isa = PBXBuildFile; fileRef = 86C40C071A8D7C5C00081FAC /* ORKSignatureView.h */; };
+		86C40E281A8D7C5C00081FAC /* ORKSignatureView.h in Headers */ = {isa = PBXBuildFile; fileRef = 86C40C071A8D7C5C00081FAC /* ORKSignatureView.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		86C40E2A1A8D7C5C00081FAC /* ORKSignatureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C40C081A8D7C5C00081FAC /* ORKSignatureView.m */; };
 		86C40E2C1A8D7C5C00081FAC /* ORKVisualConsentStep.h in Headers */ = {isa = PBXBuildFile; fileRef = 86C40C091A8D7C5C00081FAC /* ORKVisualConsentStep.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86C40E2E1A8D7C5C00081FAC /* ORKVisualConsentStep.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C40C0A1A8D7C5C00081FAC /* ORKVisualConsentStep.m */; };
@@ -3153,7 +3153,6 @@
 				2E8070FA1FAD217500E4FC7F /* ORKSpeechRecognitionStepViewController.h in Headers */,
 				86C40C221A8D7C5C00081FAC /* ORKCountdownStep.h in Headers */,
 				86C40DB61A8D7C5C00081FAC /* ORKSurveyAnswerCellForText.h in Headers */,
-				86C40E281A8D7C5C00081FAC /* ORKSignatureView.h in Headers */,
 				2489F7AF1D65214D008DEF20 /* ORKVideoCaptureCameraPreviewView.h in Headers */,
 				BCB6E65D1B7D534C000D5B34 /* ORKGraphChartView_Internal.h in Headers */,
 				86C40C8C1A8D7C5C00081FAC /* ORKActiveStepViewController.h in Headers */,
@@ -3233,6 +3232,7 @@
 				86C40E301A8D7C5C00081FAC /* ORKVisualConsentStepViewController.h in Headers */,
 				86C40DCA1A8D7C5C00081FAC /* ORKTaskViewController.h in Headers */,
 				1B4B95BA1F5F014E006B629F /* ORKWeightPicker.h in Headers */,
+				86C40E281A8D7C5C00081FAC /* ORKSignatureView.h in Headers */,
 				86C40C7E1A8D7C5C00081FAC /* ORKActiveStep.h in Headers */,
 				BCB6E65E1B7D534C000D5B34 /* ORKGraphChartView.h in Headers */,
 				86C40DD21A8D7C5C00081FAC /* ORKTextButton.h in Headers */,
